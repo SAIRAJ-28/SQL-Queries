@@ -74,3 +74,6 @@ INSERT INTO student VALUES (8 , 'B' , 'ECE' , 75 );
 select * from emp;
 select * from dept;
 select * from student;
+
+To view tables:
+https://onecompiler.com/mysql/454cxhnhm
